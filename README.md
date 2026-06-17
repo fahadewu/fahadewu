@@ -46,7 +46,7 @@
 
 ```yaml
 name: Md Fahad Mia
-role: Jr Software Developer @ Techneth
+role: Software Engineer @ Techneth
 education: "ICE — East West University, Bangladesh 🇧🇩"
 coding_since: 2019
 focus: ["Next.js", "Laravel", "MERN stack", "scalable databases"]
