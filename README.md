@@ -24,8 +24,14 @@
   <a href="https://github.com/fahadewu?tab=followers">
     <img src="https://img.shields.io/github/followers/fahadewu?label=Followers&style=flat&color=0e75b6" alt="followers" />
   </a>
-  <a href="https://github.com/fahadewu?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-22-0e75b6?style=flat" alt="repos" />
+  <a href="https://fahad.oracrondigital.com/">
+    <img src="https://img.shields.io/badge/Projects%20Completed-50-0e75b6?style=flat" alt="projects completed" />
+  </a>
+  <a href="https://fahad.oracrondigital.com/">
+    <img src="https://img.shields.io/badge/Experience-3%2B%20years-0e75b6?style=flat" alt="experience" />
+  </a>
+  <a href="https://fahad.oracrondigital.com/">
+    <img src="https://img.shields.io/badge/Worldwide%20Clients-15-0e75b6?style=flat" alt="clients" />
   </a>
 </p>
 
@@ -40,22 +46,37 @@
 
 ```yaml
 name: Md Fahad Mia
-role: Software Engineer @ Techneth
-location: Dhaka, Bangladesh 🇧🇩
-focus: ["Next.js", "MERN stack", "scalable databases"]
-currently_learning: "system design & cloud architecture"
+role: Jr Software Developer @ Techneth
+education: "ICE — East West University, Bangladesh 🇧🇩"
+coding_since: 2019
+focus: ["Next.js", "Laravel", "MERN stack", "scalable databases"]
+also_into: ["DevOps", "AI / Machine Learning", "Mobile Apps"]
 fun_fact: "I turn coffee ☕ into clean, shippable code"
 open_to: ["collaboration", "interesting problems"]
 ```
 
-- 🔭 I’m a **professional web developer** building robust, production-grade apps
-- ⚡ Expert in **Next.js**, the **MERN stack**, and databases like **MySQL** & **MongoDB**
-- 🛠️ I build everything from **REST APIs & backends** to **polished frontends**
-- 🌱 Continuously sharpening my skills in **system design & best practices**
+- 🔭 I’m a **professional web developer & programmer**, building production-grade apps since **2019**
+- 🎓 Studying **Information & Communications Engineering (ICE)** at **East West University**
+- ⚡ Working across **Next.js**, **Laravel**, the **MERN stack**, and databases like **MySQL** & **MongoDB**
+- 🛠️ I build it all — **REST APIs & backends**, **polished frontends**, **DevOps**, and **AI/ML**
+- 📊 **50+ projects** delivered for **15 worldwide clients** with **3+ years** of experience
 - 🌐 Portfolio: **https://fahad.oracrondigital.com/**
 - 📫 Reach me at **fahad@techneth.com**
 
 <br clear="right"/>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
+## 🧩 What I Do
+
+<div align="center">
+
+| 🌐 Web Development | ⚙️ DevOps | 🤖 AI & Machine Learning | 📱 Mobile Apps |
+| :---: | :---: | :---: | :---: |
+| Robust, scalable web apps & APIs | Server maintenance & management | ML models & intelligent systems | iOS & Android apps |
+
+</div>
 
 ---
 
@@ -67,6 +88,9 @@ open_to: ["collaboration", "interesting problems"]
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -79,8 +103,13 @@ open_to: ["collaboration", "interesting problems"]
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -120,7 +149,35 @@ open_to: ["collaboration", "interesting problems"]
 
 </div>
 
-<p align="center"><sub>➡️ See all 22 repositories on <a href="https://github.com/fahadewu?tab=repositories">my repositories page</a></sub></p>
+<p align="center"><sub>➡️ See more on <a href="https://github.com/fahadewu?tab=repositories">my repositories page</a></sub></p>
+
+---
+
+<!-- ===================== PORTFOLIO HIGHLIGHTS ===================== -->
+## 🌟 Portfolio Highlights
+
+> Selected client & research work from <a href="https://fahad.oracrondigital.com/">fahad.oracrondigital.com</a>
+
+| Project | Stack |
+| :--- | :--- |
+| Next Chapter Consultancy — full website | Laravel |
+| Gnosis Management Ltd. — website | CakePHP |
+| Oracron Digital — main website | Web |
+| Monno Shop — store customization | Shopify |
+| EWUTC & Algoramming — main websites | Web |
+| Techneth — website backend | Backend |
+| Law Suggestion System | Machine Learning |
+| Eye Disease Detection | VGG19 · EfficientNetB0 · MobileNetV2 |
+
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+## 💼 Experience
+
+- **Jr Software Developer** — Techneth · `2026`
+- **Jr. Full Stack Web Developer** — Betopia Limited · `2026`
+- **Intern Developer** — Itransition Group · `2025`
+- **Junior Web Developer** — Algoramming · `2023`
 
 ---
 
@@ -136,6 +193,8 @@ open_to: ["collaboration", "interesting problems"]
 
 <img src="https://streak-stats.demolab.com?user=fahadewu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
 
+<sub>📌 Stats reflect <b>all-time activity including private contributions</b> — not just public repos.</sub>
+
 </div>
 
 ---
@@ -148,6 +207,17 @@ open_to: ["collaboration", "interesting problems"]
 <img src="https://github-profile-trophy.vercel.app/?username=fahadewu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
+
+---
+
+<!-- ===================== RECOGNITIONS ===================== -->
+## 🎖️ Recognitions & Certifications
+
+- 🏅 **Web Developer Award** — EWUTC · `2023`
+- 🧑‍💼 **Vice President** — EWUTC · `2024`
+- 🌐 **CCNA Training** — Creative IT · `2024`
+- ⭐ **Fiverr Top 20% Freelancer** — HTML, WordPress, English
+- ✍️ **Verified Author** — Blog Desire · `2021`
 
 ---
 
@@ -195,6 +265,9 @@ open_to: ["collaboration", "interesting problems"]
 </a>
 <a href="https://www.linkedin.com/in/fahad-m-3b63211b5/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://www.fiverr.com/fahad775">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr" />
 </a>
 <a href="mailto:fahad@techneth.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
