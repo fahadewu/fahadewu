@@ -174,10 +174,49 @@ open_to: ["collaboration", "interesting problems"]
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-- **Jr Software Developer** — Techneth · `2026`
-- **Jr. Full Stack Web Developer** — Betopia Limited · `2026`
-- **Intern Developer** — Itransition Group · `2025`
-- **Junior Web Developer** — Algoramming · `2023`
+<table>
+  <tr>
+    <td><b>🧑‍💻 Jr Software Developer</b></td>
+    <td>Techneth</td>
+    <td align="right"><code>2026</code></td>
+  </tr>
+  <tr>
+    <td><b>🧩 Jr. Full Stack Web Developer</b></td>
+    <td>Betopia Limited</td>
+    <td align="right"><code>2026</code></td>
+  </tr>
+  <tr>
+    <td><b>🌱 Intern Developer</b></td>
+    <td>Itransition Group</td>
+    <td align="right"><code>2025</code></td>
+  </tr>
+  <tr>
+    <td><b>🎨 Vice President</b></td>
+    <td>East West University Telecommunications Club (EWUTC)</td>
+    <td align="right"><code>2024</code></td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Developer</b></td>
+    <td>East West University Telecommunications Club (EWUTC)</td>
+    <td align="right"><code>2023</code></td>
+  </tr>
+  <tr>
+    <td><b>⚡ Junior Web Developer</b></td>
+    <td>Algoramming</td>
+    <td align="right"><code>2023</code></td>
+  </tr>
+  <tr>
+    <td><b>✍️ Verified Author</b></td>
+    <td>Blog Desire</td>
+    <td align="right"><code>2021</code></td>
+  </tr>
+</table>
+
+<sub>
+• <b>Algoramming</b> — outstanding contribution to web development<br/>
+• <b>EWUTC (Web Developer)</b> — winner of the <i>Site of the Day</i> award for innovative web design<br/>
+• <b>EWUTC (Vice President)</b> — recognized for outstanding UI/UX design work
+</sub>
 
 ---
 
@@ -214,10 +253,8 @@ open_to: ["collaboration", "interesting problems"]
 ## 🎖️ Recognitions & Certifications
 
 - 🏅 **Web Developer Award** — EWUTC · `2023`
-- 🧑‍💼 **Vice President** — EWUTC · `2024`
 - 🌐 **CCNA Training** — Creative IT · `2024`
 - ⭐ **Fiverr Top 20% Freelancer** — HTML, WordPress, English
-- ✍️ **Verified Author** — Blog Desire · `2021`
 
 ---
 
