@@ -60,7 +60,7 @@ open_to: ["collaboration", "interesting problems"]
 - ⚡ Working across **Next.js**, **Laravel**, the **MERN stack**, and databases like **MySQL** & **MongoDB**
 - 🛠️ I build it all — **REST APIs & backends**, **polished frontends**, **DevOps**, and **AI/ML**
 - 📊 **50+ projects** delivered for **15 worldwide clients** with **3+ years** of experience
-- 🌐 Portfolio: **https://fahad.oracrondigital.com/**
+- 🌐 Portfolio: **https://iamleopard.com/**
 - 📫 Reach me at **fahad@techneth.com**
 
 <br clear="right"/>
